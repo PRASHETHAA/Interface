@@ -74,7 +74,8 @@ public class Hello
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/75235090/172861194-bdf9e371-63d7-4eb4-96a6-cfd1dea1d4c5.png)
+![exp9cs](https://user-images.githubusercontent.com/75234942/175271756-a8ab9fd4-adb3-4715-b8e7-f6b8b3d48d44.png)
+
 
 
 ## Result:
