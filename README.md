@@ -1,6 +1,6 @@
-# EX-09
-# DATE-
-# Interface
+## EX NO:09
+## DATE:
+# <p align="center">Interface
 
 ## Aim:
   To write a C# program using interface concept
