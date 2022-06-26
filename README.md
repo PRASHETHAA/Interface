@@ -24,6 +24,10 @@ Use while loop and and switch case to Get the choice from the user whether to pe
 ## Step 6:
 After performing the functions display the remaining balance of the user.
 
+<br>
+<br>
+<br>
+
 ## Program:
 ```
 using System;
@@ -74,6 +78,9 @@ public class Hello
     }
 }
 ```
+<br>
+<br>
+<br>
 
 ## Output:
 ![exp9cs](https://user-images.githubusercontent.com/75234942/175271756-a8ab9fd4-adb3-4715-b8e7-f6b8b3d48d44.png)
